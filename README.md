@@ -24,14 +24,6 @@
 - [Contributors](#contributors)
   - [Meet The Team Members](#meet-the-team-members)
 
-# About The Project
-
-Peworld is a jobseeker website project that aims to assist Software Developers in finding jobs that match their skills.
-
-On this website, job seekers can create a profile, upload their experience and portfolio. Peworld also offers a feature to connect job seekers with companies that are looking for candidates with the required skills.
-
-One of the outstanding features of Peworld is the ability to identify the skills and interests of job seekers based on their abilities. With this information, recruiters can directly connect through the hire feature.
-
 ## Built With
 
 These are the libraries and service used for building this backend API
