@@ -9,7 +9,7 @@
     <br />
     <a href="https://react-articel-fe.vercel.app/">View Demo</a>
     ·
-    <a href="https://react-articel-be.vercel.app//>Api Demo</a>
+    <a href="https://react-articel-be.vercel.app/https://react-articel-be.vercel.app/>Api Demo</a>
   </p>
 </p>
 
@@ -98,7 +98,7 @@ Documentation files are provided in the [docs](./docs) folder
 
 API endpoint list are also available as published postman documentation
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/26301439/2s9YC2zDT6)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/26301439/2s9YJaZQRN)
 
 ## Related Project
 
