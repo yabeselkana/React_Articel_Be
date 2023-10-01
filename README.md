@@ -1,15 +1,15 @@
 <br />
 <p align="center">
   <div align="center">
-    <img height="100" src="https://cdn.discordapp.com/attachments/1118733891738554480/1147721385767080047/Screenshot_119-removebg-preview.png" alt="blanja" border="0"/>
+      <h3 align="center">Artikel BE</h3>
   </div>
-  <h3 align="center">Hiring</h3>
+  <h3 align="center">Artikel</h3>
   <p align="center">
-    <a href="https://github.com/yabeselkana/BE_hirejob.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/yabeselkana/React_Articel_Be.git"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://fe-nextjs-hirejob.vercel.app/">View Demo</a>
+    <a href="https://react-articel-fe.vercel.app/">View Demo</a>
     ·
-    <a href="https://be-hirejob.vercel.app/>Api Demo</a>
+    <a href="https://react-articel-be.vercel.app//>Api Demo</a>
   </p>
 </p>
 
@@ -47,7 +47,7 @@ These are the libraries and service used for building this backend API
 1. Clone this repository
 
 ```sh
-git clone gh repo clone https://github.com/yabeselkana/BE_hirejob.git
+git clone https://github.com/yabeselkana/React_Articel_Be.git
 ```
 
 2. Change directory to markisak-be
@@ -102,12 +102,12 @@ API endpoint list are also available as published postman documentation
 
 ## Related Project
 
-:rocket: [`Backend Hiring App`](https://github.com/yabeselkana/BE_hirejob.git)
+:rocket: [`Backend Articel`](https://github.com/yabeselkana/React_Articel_Be.git)
 
-:rocket: [`Frontend Hiring App`](https://github.com/yabeselkana/FE_Nextjs_Hirejob.git)
+:rocket: [`Frontend Articel`](https://github.com/yabeselkana/React_Articel_FE.git)
 
-:rocket: [`Demo Hiring App`](https://fe-nextjs-hirejob.vercel.app/)
+:rocket: [`Demo Articel`](https://react-articel-fe.vercel.app/)
 
-:rocket: [`Demo BE Hiring App`](https://be-hirejob.vercel.app/)
+:rocket: [`Demo BE Articel`](https://react-articel-be.vercel.app/)
 
 <!-- Project link : [https://github.com/izaazwaskito/HireJob-BE](https://github.com/izaazwaskito/HireJob-BE) -->
